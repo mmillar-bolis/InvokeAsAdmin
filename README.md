@@ -39,4 +39,4 @@ This will reate a symbolic link to test.exe in the $env:USERPROFILE\bin folder. 
 
 ### Thanks for looking!
 
-I'm just a novice user who codes for fun. This was originally put together by a user named msumimz, however I have been unable to find them online and the original posts for this code have disappeared as far as I have been able to search. I saved this almost four years ago and have hacked a bit with it ever since. Here it is with with the author's credit and it's original license. I'll do what I can to continue working on this.
+I'm just a novice user who codes for fun. This was originally put together by a user named msumimz, however I have been unable to find them online and the original posts for this code have disappeared as far as I have been able to search. I saved this several years ago and have hacked a bit with it ever since. I took it down for a year after some unfairly critical feedback, but have decided to repost it. Here's the code with the author's credit and it's original license. Hopefully I'll find the time to fix it all up.
